@@ -10,4 +10,4 @@ Upon launching the app, the user is asked to describe the first member of their 
 This app was created using Object-Oriented Programming concepts, namely using classes and constructors to create "team member" objects based on information entered by the user.  The app is run using Node.js, and uses the "Inquirer" and "FS" node modules.  Files for different objects are also stored in separate .js files and passed among one another using module.exports and require.
 
 
-### Link to Video : 
+### Link to Video : https://drive.google.com/file/d/1F2IXdD46VfGghOpIOmmNKUJLfSOxLepy/view
